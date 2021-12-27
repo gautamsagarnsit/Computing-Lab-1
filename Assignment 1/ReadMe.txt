@@ -15,9 +15,8 @@ of different part of the code and better understand the code workflow.
 
 filename: part_1.c
 
-Compiling: gcc -o part_1 part_1.c -lm
-
-Testing example:  ./part_1 sample_input_file_1.txt
+Compiling:  gcc -o task_1 21CS60R15_ass1_task_1.c -lm
+Testing example:  ./task_1 testcases_1.txt
 
 Code workflow:
 (i) To represent a coordinate a struct named "point" is defined. "x" and "y" are corrdinates,
@@ -32,9 +31,8 @@ Complexity: O(NM), where N= number of mobiles and M= number of towers
 
 filename: part_2.c
 
-Compiling: gcc -o part_2 part_2.c -lm
-
-Testing example: ./part_2 sample_input_file_2.txt
+Compiling: gcc -o task_2 21CS60R15_ass1_task_2.c -lm
+Testing example: ./task_2 sample_input_file_2.txt
 
 Code workflow:
 The function "incremental_search_nearest_tower" implements the main program.
@@ -52,9 +50,8 @@ In the worst case where all the tower location and mobile location gets updated 
 
 filename: kd_tree.c
 
-Compiling: gcc -o part_3 kd_tree.c -lm
-
-Testing example: ./part_3 sample_input_file_3.txt
+Compiling: gcc -o task_3 21CS60R15_ass1_task_3.c -lm
+Testing example: ./task_3 testcases_1.txt
 
 Code Workflow:
 (i) struct "node": Contains a struct point type variable "p" and pointer to left and right node. Used for implementing KD tree.

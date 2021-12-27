@@ -1,1 +1,0 @@
-color[code[i]/4]
