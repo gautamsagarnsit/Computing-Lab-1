@@ -1,0 +1,5 @@
+[0m2021.09.13 13:04:19 INFO  Started: Metals version 0.10.6 in workspace 'D:\Gautam\IIT KGP\1st Sem\Computing Lab 1\Assignment 3' for client Visual Studio Code 1.60.0.[0m
+[0m2021.09.13 13:04:22 INFO  time: initialize in 2.94s[0m
+[0m2021.09.13 13:04:28 WARN  Build server is not auto-connectable.[0m
+[0m2021.09.13 13:04:28 WARN  no build tool detected in workspace 'D:\Gautam\IIT KGP\1st Sem\Computing Lab 1\Assignment 3'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.09.13 13:11:43 INFO  shutting down Metals[0m
